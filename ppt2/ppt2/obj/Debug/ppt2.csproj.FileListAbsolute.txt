@@ -1,0 +1,7 @@
+D:\1AB\kc1.6\ppt2\ppt2\bin\Debug\ppt2.exe.config
+D:\1AB\kc1.6\ppt2\ppt2\bin\Debug\ppt2.exe
+D:\1AB\kc1.6\ppt2\ppt2\bin\Debug\ppt2.pdb
+D:\1AB\kc1.6\ppt2\ppt2\obj\Debug\ppt2.csprojAssemblyReference.cache
+D:\1AB\kc1.6\ppt2\ppt2\obj\Debug\ppt2.csproj.CoreCompileInputs.cache
+D:\1AB\kc1.6\ppt2\ppt2\obj\Debug\ppt2.exe
+D:\1AB\kc1.6\ppt2\ppt2\obj\Debug\ppt2.pdb
